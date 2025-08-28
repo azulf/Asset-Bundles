@@ -1,6 +1,7 @@
 # Asset-Bundles Many-Games
 you can load all of these packages into unity editor with load bundles
 everything in this build is scene package
+azulf.github.io/Asset-Bundles/<repo_game_name>/<game_name>
 
 list of games : 
 1. Math Runner
